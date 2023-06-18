@@ -32,7 +32,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - Solution URL: [Solution](#)
-- Live Site URL: [Live Site](#)
+- Live Site URL: [Live Site](https://gabriel-h502.github.io/results-summary-component/)
 
 ## Meu progresso
 
